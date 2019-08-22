@@ -1,0 +1,36 @@
+.navbar {
+  color: #FFFFFF;
+}
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+.text-danger {
+  color: #660066;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.jumbotron {
+  background-image: url("../assets/img/bg_hero.png");
+  background-size: cover;
+  background-position: center;
+  height: 737px;
+}
+
+.font-weight-bold {
+  font-size: 72px;
+  font-weight: 700;
+}
+
+.font-weight-extralight {
+  font-size: 72px;
+  font-weight: 200;
+}
+
+.navbar, footer, .bg-danger {
+  background-color: #660066!important;
+}
